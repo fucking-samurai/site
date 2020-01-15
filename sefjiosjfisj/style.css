@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+}
+
+aside {
+    width: 20%;
+    background-color: #525050;
+    color: #fff;
+}
+
+aside li {
+    list-style: none;
+    padding: 10px;
+}
